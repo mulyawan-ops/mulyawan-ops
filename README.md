@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi all, i'am Mulyawan 👋
 
+[![forthebadge made-with-rust](http://ForTheBadge.com/images/badges/made-with-rust.svg)](https://www.rust-lang.org/)
+[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+[![GitHub contributors](https://badgen.net/github/contributors/Naereen/Strapdown.js)](https://GitHub.com/Naereen/Strapdown.js/graphs/contributors/)
+
+Just for learn with fun, made with 💪🏻
 <!--
 **mulyawan-ops/mulyawan-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
